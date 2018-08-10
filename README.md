@@ -1,6 +1,12 @@
 # infix-to-postfix
 
-Programa em Python que recebe uma expressão infixa, converte para posfixa e depois avalia a expressão gerando o resultado da função.
+Programa em Python que recebe uma expressão infixa, converte para posfixa e depois avalia a expressão gerando o resultado da função com aplicação de TDA (tipos de dados abstratos).
+
+Node.py - Implementa o tipo de dados abstrato Node
+Pilha.py - Implementa o tipo de dados abstrato Pilha
+Postfix.py - Programa que converte a função infixa em posfixa
+Avaliar.py - Avalia a expressão gerando seu resultado
+Programa - Testa o programa
 
 ## Passo 1:
 * Inicie com uma pilha vazia;
