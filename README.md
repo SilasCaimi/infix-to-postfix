@@ -12,7 +12,7 @@ Postfix.py - Programa que converte a função infixa em posfixa
 
 Avaliar.py - Avalia a expressão posfixa gerando seu resultado
 
-Programa - Testa o programa
+Programa.py - Testa o programa
 
 ## Algoritmo
 
