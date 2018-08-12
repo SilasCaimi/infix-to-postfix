@@ -4,15 +4,15 @@ Programa em Python que recebe uma expressão infixa, converte para posfixa e dep
 
 ## Arquivos
 
-Node.py - Implementa o tipo de dados abstrato Node
+**Node.py** - Implementa o tipo de dados abstrato Node
 
-Pilha.py - Implementa o tipo de dados abstrato Pilha
+**Pilha.py** - Implementa o tipo de dados abstrato Pilha
 
-Postfix.py - Programa que converte a função infixa em posfixa
+**Postfix.py** - Programa que converte a função infixa em posfixa
 
-Avaliar.py - Avalia a expressão posfixa gerando seu resultado
+**Avaliar.py** - Avalia a expressão posfixa gerando seu resultado
 
-Programa.py - Testa o programa
+**Programa.py** - Testa o programa
 
 ## Algoritmo
 
