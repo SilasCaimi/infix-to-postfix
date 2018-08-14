@@ -1,6 +1,6 @@
 # Infix-to-Postfix
 
-Programa em Python  com aplicação de TDA(tipos de dados abstratos) que recebe uma expressão infixa, converte para posfixa e depois avalia a expressão gerando o resultado da função.
+Programa em Python  com aplicação de TDA (tipos de dados abstratos) que recebe uma expressão infixa, converte para posfixa e depois avalia a expressão gerando o resultado da função.
 
 O programa visa desenvolver uma solução em liguagem Python para o [problema proposto][CasoDeUso] pelo autor no livro abaixo.
 
@@ -33,7 +33,8 @@ Exemplos de conversão da forma infixa para a forma posfixa:
     * Ao encontrar um parêntese de abertura, empilhe-o.
 
 - Passo 4:
-    * Ao encontrar um parêntese de fechamento, remova um símbolo da pilha e copie-o na saída. * Repita esse passo até que seja desempilhado o parêntese de abertura correspondente.
+    * Ao encontrar um parêntese de fechamento, remova um símbolo da pilha e copie-o na saída.
+    * Repita esse passo até que seja desempilhado o parêntese de abertura correspondente.
     
 - Passo 5:
     * Ao final da varredura, esvazie a pilha, movendo os símbolos desempilhados para a saída.
