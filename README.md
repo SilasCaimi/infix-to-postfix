@@ -1,6 +1,14 @@
-# infix-to-postfix
+# Infix-to-Postfix
 
-Programa em Python que recebe uma expressão infixa, converte para posfixa e depois avalia a expressão gerando o resultado da função com aplicação de TDA (tipos de dados abstratos).
+Programa em Python  com aplicação de TDA(tipos de dados abstratos) que recebe uma expressão infixa, converte para posfixa e depois avalia a expressão gerando o resultado da função.
+
+O programa visa desenvolver uma solução em liguagem Python para o [problema proposto][CasoDeUso] pelo autor no livro abaixo.
+
+>Tenenbaum, Aaron M. Estruturas de Dados Usando C. São Paulo : MAKRON Books, 1995.
+
+Exemplos de conversão da forma infixa para a forma posfixa:
+
+![Exemplos](./Exemplos.PNG)
 
 ## Arquivos
 
@@ -10,7 +18,7 @@ Programa em Python que recebe uma expressão infixa, converte para posfixa e dep
 * [**Avaliar.py**][Avaliar] - Avalia a expressão posfixa gerando seu resultado
 * [**Programa.py**][Programa] - Testa o programa
 
-## Algoritmo
+## Algoritmo de conversão
 
 - Passo 1:
     * Inicie com uma pilha vazia;
@@ -36,3 +44,4 @@ Programa em Python que recebe uma expressão infixa, converte para posfixa e dep
 [Postfix]:<Pilhas/Postfix.py>
 [Avaliar]:<Pilhas/Avaliar.py>
 [Programa]:<Pilhas/Programa.py>
+[CasoDeUso]:<./Caso de uso.pdf>
